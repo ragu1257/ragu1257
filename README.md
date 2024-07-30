@@ -19,13 +19,11 @@ For the past 5+ years, I’ve been on an exciting journey as an engineer, workin
 ## 🚀 About
 <img src="https://www.andreasbilly.com/work.png" align="right" width="200px"/>
 
-Hello! I’m a Full-Stack Engineer turning ideas into reality through code. My journey has been a thrilling ride through the world of JavaScript, TypeScript, React, Vue, Node.js, NestJS, and Express.js. I thrive on tackling complex challenges and finding elegant solutions. I have a knack for building robust applications and love diving into new technologies.
+Hello! I’m a Full-Stack Engineer dedicated to turning product ideas into functional, reliable code. With experience in JavaScript, TypeScript, React, Vue, Node.js, NestJS, and Express.js, I’m committed to solving complex problems and building robust applications.
 
+🛠️ My career has been a journey of continuous learning and practical problem-solving. I’ve worked on meaningful projects like developing the 'KYC/KYB' functionality, which streamlined our client onboarding process on our trading platform.
 
-
-🛠️ My career is a blend of continuous learning, technical innovation, and hands-on problem-solving. I’ve had the privilege of implementing features that truly make a difference, like the 'KYC/KYB' functionality, which helped our company to onboard client on our trading platform.
-
-🚀 My motto: "Keep going, stay curious, and have fun along the way. Every challenge is just a chance to learn something new and have a good laugh at the obstacles you overcome!"
+🚀 My motto: "Stay persistent and curious. Every challenge is an opportunity to learn and grow, with a little humor along the way."
 
 ### 💻 Programming Languages
  JavaScript,
