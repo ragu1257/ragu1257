@@ -20,7 +20,7 @@ I like to build great UI experiences along with a strong backend.
 </a>
 
 ## 🚀 About
-<img src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" align="right" width="200px"/>
+<img src="https://www.andreasbilly.com/work.png" align="right" width="200px"/>
 
 ### 👨‍💻 About Me
 Full-Stack Engineer with 6+ years of successful software delivery experience. Expert in JavaScript, TypeScript, React, Vue, Node.js, NestJS, and Express.js. Interested in GraphQL, Testing, RESTful APIs, and SQL. Proud of delivering multiple microservices under tight deadlines & helped my team transition to use i18n in a global context using JSON files.
@@ -30,47 +30,40 @@ Full-Stack Engineer with 6+ years of successful software delivery experience. Ex
 🚀 My motto: "To persevere is important for everybody. Don't give up, don't give in. There's always an answer to everything."
 
 ### 💻 Programming Languages
-- JavaScript
-- TypeScript
-- SQL
+ JavaScript,
+ TypeScript,
+ SQL
 
 ### 🔧 Technologies & Tools
-- React
-- Vue.js
-- Node.js
-- NestJS
-- Express.js
-- Next.js
-- Docker
-- REST APIs
-- MongoDB
-- HTML
-- CSS
-- Git
-- Jest
-- MySQL
-- PostgreSQL
-- Design Patterns
-- Data Structures and Algorithms
+ React,
+ Vue.js,
+ Node.js,
+ NestJS,
+ Express.js,
+ Next.js,
+ Docker,
+ REST APIs,
+ MongoDB,
+ HTML,
+ CSS,
+ Git,
+ Jest,
+ MySQL,
+ PostgreSQL,
+ Design Patterns,
+ Data Structures and Algorithms
 
 ### ☁️ Cloud
-- AWS
-- CI/CD
+AWS,
+ CI/CD
 
 ### 📊 Methodologies
-- SCRUM
-- Agile
-- KANBAN
-- TDD
-- Agile Development Practices
+SCRUM,
+ Agile,
+ TDD,
+DDD,
+Agile Development Practices
 
-### 🌐 Interests
-- GraphQL
-- Testing
-- Microservices
-- SQL
-- API Design and Development
-- Frontend/Backend Architecture
 
 ## 🛠️ Tech Stack
 
@@ -82,6 +75,7 @@ Full-Stack Engineer with 6+ years of successful software delivery experience. Ex
  ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
  ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
+ ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=TailwindCSS)
  ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
  ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js)
 
@@ -89,6 +83,7 @@ Full-Stack Engineer with 6+ years of successful software delivery experience. Ex
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
  ![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=NestJS)
  ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
+ ![Socket.IO](https://img.shields.io/badge/-Socket.IO-000?&logo=Socket.io)
 
 ### 🛢 Databases
  ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
