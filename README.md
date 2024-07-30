@@ -97,3 +97,9 @@ Agile Development Practices
  ![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
  ![BitBucket](https://img.shields.io/badge/-BitBucket-000?&logo=BitBucket)
  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=Visual%20Studio%20Code)
+
+<br/>
+<br/>
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ragu1257&layout=compact)](https://github.com/ragu1257)
