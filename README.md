@@ -1,10 +1,7 @@
 # I'm Rachit, a Software Developer 👨‍💻
 
-Over the past 5+ years, working as an engineer,
+For the past 5+ years, I’ve been on an exciting journey as an engineer, working with both small startups and large companies. I’m passionate about creating amazing user interfaces that people love to use and building powerful backends that keep everything running smoothly. I enjoy turning ideas into reality and making technology work better for everyone.
 
-I have happily contributed to small startups as well as big companies.
-
-I like to build great UI experiences along with a strong backend.
 
 ## 📫 Contact
 <a href="mailto:rachit.gupta4@gmail.com" target="_blank">
@@ -22,12 +19,13 @@ I like to build great UI experiences along with a strong backend.
 ## 🚀 About
 <img src="https://www.andreasbilly.com/work.png" align="right" width="200px"/>
 
-### 👨‍💻 About Me
-Full-Stack Engineer with 6+ years of successful software delivery experience. Expert in JavaScript, TypeScript, React, Vue, Node.js, NestJS, and Express.js. Interested in GraphQL, Testing, RESTful APIs, and SQL. Proud of delivering multiple microservices under tight deadlines & helped my team transition to use i18n in a global context using JSON files.
+Hello! I’m a Full-Stack Engineer with over 6 years of turning ideas into reality through code. My journey has been a thrilling ride through the world of JavaScript, TypeScript, React, Vue, Node.js, NestJS, and Express.js. I thrive on tackling complex challenges and finding elegant solutions. I have a knack for building robust applications and love diving into new technologies.
 
-🛠️ My career path has blended continuous learning, technical leadership, and hands-on software development. This includes implementing impactful features such as the 'Share Certificate on LinkedIn' functionality, enhancing company visibility and client reach.
 
-🚀 My motto: "To persevere is important for everybody. Don't give up, don't give in. There's always an answer to everything."
+
+🛠️ My career is a blend of continuous learning, technical innovation, and hands-on problem-solving. I’ve had the privilege of implementing features that truly make a difference, like the 'KYC/KYB' functionality, which helped our company to onboard client on our trading platform.
+
+🚀 My motto: "Keep going, stay curious, and have fun along the way. Every challenge is just a chance to learn something new and have a good laugh at the obstacles you overcome!"
 
 ### 💻 Programming Languages
  JavaScript,
