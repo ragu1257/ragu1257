@@ -19,7 +19,7 @@ For the past 5+ years, I’ve been on an exciting journey as an engineer, workin
 ## 🚀 About
 <img src="https://www.andreasbilly.com/work.png" align="right" width="200px"/>
 
-Hello! I’m a Full-Stack Engineer with over 6 years of turning ideas into reality through code. My journey has been a thrilling ride through the world of JavaScript, TypeScript, React, Vue, Node.js, NestJS, and Express.js. I thrive on tackling complex challenges and finding elegant solutions. I have a knack for building robust applications and love diving into new technologies.
+Hello! I’m a Full-Stack Engineer with over 5 years of turning ideas into reality through code. My journey has been a thrilling ride through the world of JavaScript, TypeScript, React, Vue, Node.js, NestJS, and Express.js. I thrive on tackling complex challenges and finding elegant solutions. I have a knack for building robust applications and love diving into new technologies.
 
 
 
