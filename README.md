@@ -1,6 +1,6 @@
 # I'm Rachit, a Software Developer 👨‍💻
 
-For the past 5+ years, I’ve been on an exciting journey as an engineer, working with both small startups and large companies. I’m passionate about creating amazing user interfaces that people love to use and building powerful backends that keep everything running smoothly. I enjoy turning ideas into reality and making technology work better for everyone.
+For the past 5+ years, I’ve been on a journey as an engineer, working with both small startups and large companies. I’m passionate about creating amazing user interfaces that people love to use and building powerful backends that keep everything running smoothly. I enjoy turning ideas into reality and making technology work better for everyone.
 
 
 ## 📫 Contact
